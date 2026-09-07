@@ -1,5 +1,5 @@
 
-🎯 Enthusiastic about a career in cybersecurity — SOC / DFIR<br>🎓 3rd-year CSE undergrad, GITAM University, Hyderabad<br>🛡️ Currently exploring various paths in cybersecurity & building security fundamentals<br>💻 Improving problem solving via LeetCode / DSA
+🎯 Enthusiastic about a career in cybersecurity - SOC / DFIR<br>🎓 3rd-year CSE undergrad, GITAM University, Hyderabad<br>🛡️ Currently exploring various paths in cybersecurity & building security fundamentals<br>💻 Improving problem solving via LeetCode / DSA
 
 
 ## 🌐 Socials:
